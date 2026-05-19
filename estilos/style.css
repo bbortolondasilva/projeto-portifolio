@@ -9,3 +9,7 @@
   --destaque-inverso
   --fundo-card
 */
+
+body {
+  background-color: lightgray;
+}
