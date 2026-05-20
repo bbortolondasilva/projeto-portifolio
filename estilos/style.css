@@ -52,7 +52,6 @@ nav#menu > ul {
 nav#menu a {
 	text-decoration: none;
 	color: var(--texto-inverso);
-	font-weight: 600;
 	padding: 12px 15px;
 	border-radius: 5px;
 
