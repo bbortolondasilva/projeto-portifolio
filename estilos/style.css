@@ -179,7 +179,7 @@ div#skill-container div.info {
 
 
 @media screen and (min-width: 768px) {
-	#skill-container {
+	div#skill-container {
 		grid-template-columns: 1fr 1fr;
 	}
 }
